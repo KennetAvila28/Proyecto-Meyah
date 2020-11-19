@@ -1,25 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\git-proyecto\\Meyah\\Meyah.Domain\\Meyah.Domain.csproj": {}
+    "C:\\Users\\ANGEL\\Desktop\\Proyecto-Meyah-main\\Proyecto-Meyah\\Meyah\\Meyah.Domain\\Meyah.Domain.csproj": {}
   },
   "projects": {
-    "C:\\git-proyecto\\Meyah\\Meyah.Domain\\Meyah.Domain.csproj": {
+    "C:\\Users\\ANGEL\\Desktop\\Proyecto-Meyah-main\\Proyecto-Meyah\\Meyah\\Meyah.Domain\\Meyah.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git-proyecto\\Meyah\\Meyah.Domain\\Meyah.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\ANGEL\\Desktop\\Proyecto-Meyah-main\\Proyecto-Meyah\\Meyah\\Meyah.Domain\\Meyah.Domain.csproj",
         "projectName": "Meyah.Domain",
-        "projectPath": "C:\\git-proyecto\\Meyah\\Meyah.Domain\\Meyah.Domain.csproj",
-        "packagesPath": "C:\\Users\\nidia\\.nuget\\packages\\",
-        "outputPath": "C:\\git-proyecto\\Meyah\\Meyah.Domain\\obj\\",
+        "projectPath": "C:\\Users\\ANGEL\\Desktop\\Proyecto-Meyah-main\\Proyecto-Meyah\\Meyah\\Meyah.Domain\\Meyah.Domain.csproj",
+        "packagesPath": "C:\\Users\\ANGEL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ANGEL\\Desktop\\Proyecto-Meyah-main\\Proyecto-Meyah\\Meyah\\Meyah.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\nidia\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\ANGEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"

@@ -4,5 +4,19 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="5.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Meyah.Application\Meyah.Application.csproj" />
+    <ProjectReference Include="..\Meyah.Domain\Meyah.Domain.csproj" />
+    <ProjectReference Include="..\Meyah.Infraestructure\Meyah.Infraestructure.csproj" />
+  </ItemGroup>
+
 
 </Project>
