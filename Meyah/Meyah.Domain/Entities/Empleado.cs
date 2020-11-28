@@ -19,6 +19,8 @@ namespace Meyah.Domain.Entities
         public DateTime Creado { get; set; }
         public DateTime? Modificado { get; set; }
         public int UsuarioId { get; set; }
+        public string Telefono { get; set; }
+        public DateTime Fechanacimiento { get; set; }
 
         public virtual Usuario Usuario { get; set; }
         public virtual ICollection<Tarea> Tareas { get; set; }

@@ -27,6 +27,12 @@ namespace Meyah.Infraestructure.Data.Configurations
                 .HasMaxLength(25)
                 .IsUnicode(false);
 
+           builder.Property(e => e.Telefono)
+                .IsRequired()
+                .HasMaxLength(10)
+                .IsUnicode(false);
+           builder.Property(e => e.Fechanacimiento).HasColumnType("date");
+
             builder.HasOne(d => d.Usuario)
                 .WithMany(p => p.Empleados)
                 .HasForeignKey(d => d.UsuarioId)

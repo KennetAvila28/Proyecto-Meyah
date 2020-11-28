@@ -16,3 +16,12 @@ C:\Users\ANGEL\Desktop\Proyecto-Meyah-main\Proyecto-Meyah\Meyah\Meyah.Domain\obj
 C:\Users\ANGEL\Desktop\Proyecto-Meyah-main\Proyecto-Meyah\Meyah\Meyah.Domain\obj\Debug\netcoreapp3.1\Meyah.Domain.csproj.CoreCompileInputs.cache
 C:\Users\ANGEL\Desktop\Proyecto-Meyah-main\Proyecto-Meyah\Meyah\Meyah.Domain\obj\Debug\netcoreapp3.1\Meyah.Domain.dll
 C:\Users\ANGEL\Desktop\Proyecto-Meyah-main\Proyecto-Meyah\Meyah\Meyah.Domain\obj\Debug\netcoreapp3.1\Meyah.Domain.pdb
+C:\git-proyecto\Proyecto-Meyah\Meyah\Meyah.Domain\bin\Debug\netcoreapp3.1\Meyah.Domain.deps.json
+C:\git-proyecto\Proyecto-Meyah\Meyah\Meyah.Domain\bin\Debug\netcoreapp3.1\Meyah.Domain.dll
+C:\git-proyecto\Proyecto-Meyah\Meyah\Meyah.Domain\bin\Debug\netcoreapp3.1\Meyah.Domain.pdb
+C:\git-proyecto\Proyecto-Meyah\Meyah\Meyah.Domain\obj\Debug\netcoreapp3.1\Meyah.Domain.csprojAssemblyReference.cache
+C:\git-proyecto\Proyecto-Meyah\Meyah\Meyah.Domain\obj\Debug\netcoreapp3.1\Meyah.Domain.AssemblyInfoInputs.cache
+C:\git-proyecto\Proyecto-Meyah\Meyah\Meyah.Domain\obj\Debug\netcoreapp3.1\Meyah.Domain.AssemblyInfo.cs
+C:\git-proyecto\Proyecto-Meyah\Meyah\Meyah.Domain\obj\Debug\netcoreapp3.1\Meyah.Domain.csproj.CoreCompileInputs.cache
+C:\git-proyecto\Proyecto-Meyah\Meyah\Meyah.Domain\obj\Debug\netcoreapp3.1\Meyah.Domain.dll
+C:\git-proyecto\Proyecto-Meyah\Meyah\Meyah.Domain\obj\Debug\netcoreapp3.1\Meyah.Domain.pdb

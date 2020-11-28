@@ -28,3 +28,9 @@ C:\Users\ANGEL\Desktop\Proyecto-Meyah-main\Proyecto-Meyah\Meyah\Meyah.Infraestru
 C:\Users\ANGEL\Desktop\Proyecto-Meyah-main\Proyecto-Meyah\Meyah\Meyah.Infraestructure\obj\Debug\netcoreapp3.1\Meyah.Infraestructure.dll
 C:\Users\ANGEL\Desktop\Proyecto-Meyah-main\Proyecto-Meyah\Meyah\Meyah.Infraestructure\obj\Debug\netcoreapp3.1\Meyah.Infraestructure.pdb
 C:\Users\ANGEL\Desktop\Proyecto-Meyah-main\Proyecto-Meyah\Meyah\Meyah.Infraestructure\obj\Debug\netcoreapp3.1\Meyah.Infraestructure.genruntimeconfig.cache
+C:\git-proyecto\Proyecto-Meyah\Meyah\Meyah.Infraestructure\obj\Debug\netcoreapp3.1\Meyah.Infraestructure.csprojAssemblyReference.cache
+C:\git-proyecto\Proyecto-Meyah\Meyah\Meyah.Infraestructure\obj\Debug\netcoreapp3.1\Meyah.Infraestructure.AssemblyInfoInputs.cache
+C:\git-proyecto\Proyecto-Meyah\Meyah\Meyah.Infraestructure\obj\Debug\netcoreapp3.1\Meyah.Infraestructure.AssemblyInfo.cs
+C:\git-proyecto\Proyecto-Meyah\Meyah\Meyah.Infraestructure\obj\Debug\netcoreapp3.1\Meyah.Infraestructure.csproj.CoreCompileInputs.cache
+C:\git-proyecto\Proyecto-Meyah\Meyah\Meyah.Infraestructure\obj\Debug\netcoreapp3.1\Meyah.Infraestructure.dll
+C:\git-proyecto\Proyecto-Meyah\Meyah\Meyah.Infraestructure\obj\Debug\netcoreapp3.1\Meyah.Infraestructure.pdb

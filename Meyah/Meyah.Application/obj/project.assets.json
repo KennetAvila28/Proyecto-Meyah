@@ -299,20 +299,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ANGEL\\.nuget\\packages\\": {}
+    "C:\\Users\\nidia\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ANGEL\\Desktop\\Proyecto-Meyah-main\\Proyecto-Meyah\\Meyah\\Meyah.Application\\Meyah.Application.csproj",
+      "projectUniqueName": "C:\\git-proyecto\\Proyecto-Meyah\\Meyah\\Meyah.Application\\Meyah.Application.csproj",
       "projectName": "Meyah.Application",
-      "projectPath": "C:\\Users\\ANGEL\\Desktop\\Proyecto-Meyah-main\\Proyecto-Meyah\\Meyah\\Meyah.Application\\Meyah.Application.csproj",
-      "packagesPath": "C:\\Users\\ANGEL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ANGEL\\Desktop\\Proyecto-Meyah-main\\Proyecto-Meyah\\Meyah\\Meyah.Application\\obj\\",
+      "projectPath": "C:\\git-proyecto\\Proyecto-Meyah\\Meyah\\Meyah.Application\\Meyah.Application.csproj",
+      "packagesPath": "C:\\Users\\nidia\\.nuget\\packages\\",
+      "outputPath": "C:\\git-proyecto\\Proyecto-Meyah\\Meyah\\Meyah.Application\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\ANGEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\nidia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -324,8 +329,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\ANGEL\\Desktop\\Proyecto-Meyah-main\\Proyecto-Meyah\\Meyah\\Meyah.Domain\\Meyah.Domain.csproj": {
-              "projectPath": "C:\\Users\\ANGEL\\Desktop\\Proyecto-Meyah-main\\Proyecto-Meyah\\Meyah\\Meyah.Domain\\Meyah.Domain.csproj"
+            "C:\\git-proyecto\\Proyecto-Meyah\\Meyah\\Meyah.Domain\\Meyah.Domain.csproj": {
+              "projectPath": "C:\\git-proyecto\\Proyecto-Meyah\\Meyah\\Meyah.Domain\\Meyah.Domain.csproj"
             }
           }
         }

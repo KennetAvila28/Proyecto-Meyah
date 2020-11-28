@@ -22,3 +22,15 @@ C:\Users\ANGEL\Desktop\Proyecto-Meyah-main\Proyecto-Meyah\Meyah\Meyah.Applicatio
 C:\Users\ANGEL\Desktop\Proyecto-Meyah-main\Proyecto-Meyah\Meyah\Meyah.Application\obj\Debug\netcoreapp3.1\Meyah.Application.csproj.CopyComplete
 C:\Users\ANGEL\Desktop\Proyecto-Meyah-main\Proyecto-Meyah\Meyah\Meyah.Application\obj\Debug\netcoreapp3.1\Meyah.Application.dll
 C:\Users\ANGEL\Desktop\Proyecto-Meyah-main\Proyecto-Meyah\Meyah\Meyah.Application\obj\Debug\netcoreapp3.1\Meyah.Application.pdb
+C:\git-proyecto\Proyecto-Meyah\Meyah\Meyah.Application\bin\Debug\netcoreapp3.1\Meyah.Application.deps.json
+C:\git-proyecto\Proyecto-Meyah\Meyah\Meyah.Application\bin\Debug\netcoreapp3.1\Meyah.Application.dll
+C:\git-proyecto\Proyecto-Meyah\Meyah\Meyah.Application\bin\Debug\netcoreapp3.1\Meyah.Application.pdb
+C:\git-proyecto\Proyecto-Meyah\Meyah\Meyah.Application\bin\Debug\netcoreapp3.1\Meyah.Domain.dll
+C:\git-proyecto\Proyecto-Meyah\Meyah\Meyah.Application\bin\Debug\netcoreapp3.1\Meyah.Domain.pdb
+C:\git-proyecto\Proyecto-Meyah\Meyah\Meyah.Application\obj\Debug\netcoreapp3.1\Meyah.Application.csprojAssemblyReference.cache
+C:\git-proyecto\Proyecto-Meyah\Meyah\Meyah.Application\obj\Debug\netcoreapp3.1\Meyah.Application.AssemblyInfoInputs.cache
+C:\git-proyecto\Proyecto-Meyah\Meyah\Meyah.Application\obj\Debug\netcoreapp3.1\Meyah.Application.AssemblyInfo.cs
+C:\git-proyecto\Proyecto-Meyah\Meyah\Meyah.Application\obj\Debug\netcoreapp3.1\Meyah.Application.csproj.CoreCompileInputs.cache
+C:\git-proyecto\Proyecto-Meyah\Meyah\Meyah.Application\obj\Debug\netcoreapp3.1\Meyah.Application.csproj.CopyComplete
+C:\git-proyecto\Proyecto-Meyah\Meyah\Meyah.Application\obj\Debug\netcoreapp3.1\Meyah.Application.dll
+C:\git-proyecto\Proyecto-Meyah\Meyah\Meyah.Application\obj\Debug\netcoreapp3.1\Meyah.Application.pdb

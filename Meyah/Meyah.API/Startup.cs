@@ -38,10 +38,18 @@ namespace Meyah.API
             services.AddDbContext<MeyahContext>(options =>
             options.UseSqlServer(Configuration.GetConnectionString("MeyahEF"))
             );
+            services.AddTransient<IUsuarioRepository, UsuarioRepository>();
+            services.AddTransient<IUsuariosService, UsuarioService>();
+            services.AddTransient<IClienteRepository, ClienteRepository>();
+            services.AddTransient<IClienteService, ClienteService>();
+            services.AddTransient<IEmpleadoRepository, EmpleadoRepository>();
+            services.AddTransient<ITareaRepository, TareaRepository>();
             services.AddTransient<IPedidoRepository, PedidoRepository>();
             services.AddTransient<IProductoRepository, ProductoRepository>();
             services.AddTransient<IPedidoService, PedidoService>();
             services.AddTransient<IProductoService, ProductoService>();
+            services.AddTransient<IEmpleadoService, EmpleadoService>();
+            services.AddTransient<ITareaService, TareaService>();
             services.AddMvc().AddFluentValidation(options =>
             options.RegisterValidatorsFromAssemblies(AppDomain.CurrentDomain.GetAssemblies()));
         }

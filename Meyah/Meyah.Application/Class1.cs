@@ -1,9 +1,8 @@
 ﻿using System;
 
-namespace Meyah.Infraestructure
+namespace Meyah.Application
 {
     public class Class1
     {
-
     }
 }
